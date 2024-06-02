@@ -3899,14 +3899,14 @@
   integrity sha512-nG96G3Wp6acyAgJqGasjODb+acrI7KltPiRxzHPXnP3NgI28bpQDRv53olbqGXbfcgF5aiiHmO3xpwEpS5Ld9g==
 
 "@types/natural-compare-lite@^1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@types/natural-compare-lite/-/natural-compare-lite-1.4.0.tgz#90724682da3c304dd8d643b4e9ba00f53f29d454"
-  integrity sha512-ZDcj/yWsRPacqKPpCExWWFq9X1JQwEOfHsu8deN1Qfa6M02z6tN4DK6AMf2IkM7709gp3QW6Bo7m2NFDhA485w==
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/@types/natural-compare-lite/-/natural-compare-lite-1.4.2.tgz#9ec517cd6759d006ac432875019eedbc2e878858"
+  integrity sha512-kk1ie31cI6AUm17qOi72lEOBfpRhcknJPsJQoKBulaZC9y00MHUWqxGTk/luWEnenLB+lHoNThrKAKdYVydlew==
 
 "@types/ncp@^2.0.5":
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/@types/ncp/-/ncp-2.0.5.tgz#5c53b229a321946102a188b603306162137f4fb9"
-  integrity sha512-ocK0p8JuFmX7UkMabFPjY0F7apPvQyLWt5qtdvuvQEBz9i4m2dbzV+6L1zNaUp042RfnL6pHnxDE53OH6XQ9VQ==
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/@types/ncp/-/ncp-2.0.8.tgz#938cb8bfd21da3b8cba33781e27a530eaea0e966"
+  integrity sha512-pLNWVLCVWBLVM4F2OPjjK6FWFtByFKD7LhHryF+MbVLws7ENj09mKxRFlhkGPOXfJuaBAG+2iADKJsZwnAbYDw==
   dependencies:
     "@types/node" "*"
 
